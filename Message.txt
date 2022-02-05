@@ -1,0 +1,1 @@
+This is a test message from Message.txt file. Add your text here to send to the Whatsapp numbers listed in PhoneNumbers.txt. Enjoy Automation!!!
